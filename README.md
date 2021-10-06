@@ -18,8 +18,9 @@ DataMining_Assignments
 -  Performed Dimensionality Reduction
 
 
-##
-
+## Visualization, Clustering and Modeling Data
+- Used Different virtualization techniques as Plots, Graphs, 3D AXES, SilhouetteVisualizer
+- Used K-Means Clustering & modeled_data
 
 
 
